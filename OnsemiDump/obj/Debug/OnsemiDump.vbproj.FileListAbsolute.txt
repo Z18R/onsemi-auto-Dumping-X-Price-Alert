@@ -1,0 +1,64 @@
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.exe.config
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.exe
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.pdb
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.xml
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.dll
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.Interfaces.dll
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.System.Drawing.dll
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.xml
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.vbprojResolveAssemblyReference.cache
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.OnsemiDump.resources
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.Resources.resources
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.vbproj.GenerateResource.Cache
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.exe
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.xml
+c:\users\jc_it\documents\visual studio 2015\OnsemiDump\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.exe.config
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.exe
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.xml
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.exe
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\OnsemiDump.xml
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.dll
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\bin\Debug\EPPlus.xml
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.vbprojResolveAssemblyReference.cache
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.OnsemiDump.resources
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.Resources.resources
+C:\Users\jc_it\Desktop\OnsemiDump\OnsemiDump\obj\Debug\OnsemiDump.vbproj.GenerateResource.Cache
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\OnsemiDump.exe.config
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.exe
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.xml
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\OnsemiDump.exe
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\OnsemiDump.xml
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\EPPlus.dll
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\bin\Debug\EPPlus.xml
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.OnsemiDump.resources
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.Resources.resources
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.vbproj.GenerateResource.Cache
+C:\Users\jc_it\Desktop\OnsemiDump - Copy\OnsemiDump\obj\Debug\OnsemiDump.vbprojResolveAssemblyReference.cache
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\OnsemiDump.exe.config
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.exe
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.xml
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\OnsemiDump.exe
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\OnsemiDump.pdb
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\OnsemiDump.xml
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\EPPlus.dll
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\bin\Debug\EPPlus.xml
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.OnsemiDump.resources
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.Resources.resources
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.vbproj.GenerateResource.Cache
+C:\Users\jc_it\Desktop\OnsemiDump - Copy - Copy\OnsemiDump\obj\Debug\OnsemiDump.vbprojResolveAssemblyReference.cache
+D:\Programs\onsemi Dump Auto Notification X Price Alert\OnsemiDump\bin\Debug\OnsemiDump.exe.config
+D:\Programs\onsemi Dump Auto Notification X Price Alert\OnsemiDump\obj\Debug\OnsemiDump.exe
+D:\Programs\onsemi Dump Auto Notification X Price Alert\OnsemiDump\obj\Debug\OnsemiDump.xml
+D:\Programs\onsemi Dump Auto Notification X Price Alert\OnsemiDump\obj\Debug\OnsemiDump.pdb
